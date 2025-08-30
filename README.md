@@ -1,2 +1,11 @@
 # Bioinfo
-Bioinformatic Piplines and Algos
+Bioinformatic Piplines and Algo Implementations.
+
+#Algos
+-BWA
+-DBG
+
+#Pipelines
+-Rna-Seq
+-metagenomicss
+-Denovo Hybrid Assembly
