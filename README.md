@@ -1,5 +1,5 @@
 # Bioinfo
-Bioinformatic Piplines and Algo Implementations.
+Bioinformatic Piplines, Implementations and More 
 
 ## Algos
 ### BWA
